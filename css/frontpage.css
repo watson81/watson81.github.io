@@ -1,0 +1,106 @@
+
+a {
+	color: ##007aff;
+}
+
+.nav li a:hover, 
+.nav li a:focus {
+	background-color: #F9F9F9;
+}
+
+.img-center {
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+}
+
+.navbar-nav a {
+	color: #007aff;
+}
+
+.navbar-header a {
+	color: #007aff;	
+}
+
+.bs-docs-nav {
+	margin-bottom: 0;
+	background-color: #fff;
+	border-bottom: 0;
+}
+
+.my-header {
+	min-height: 500px;
+	background-size: cover;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	margin-bottom: 100px;
+	text-shadow: 0 1px 0 rgba(0,0,0,.1);
+	background-color: #34aadc;
+	background-image: -webkit-linear-gradient(top,#34aadc 0,#007aff 100%);
+	background-image: linear-gradient(to bottom,#34aadc 0,#007aff 100%);
+}
+
+.icon {
+	margin: 15px auto 25px;
+	background-color: transparent;
+	border: 1px solid #2980B9;
+	border-color: #fff;
+	width: 144px;
+	height: 144px;
+	font-size: 108px;
+	line-height: 140px;
+	display: block;
+	font-weight: 500;
+	color: #fff;
+	border-radius: 15%;
+	cursor: default;
+	text-align: center;
+}
+
+.logo {
+	margin-top: 50px;
+	width: 150px;
+	height: 150px;
+}
+
+.title {
+	color: #fff;
+	margin-top: 5px;
+	text-align: center;
+	font-size: 4em;
+}
+
+.tagline {
+	color: #fff;
+	font-size: 30px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	width: 80%;
+}
+
+.small-it {
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-size: -2em;
+	font-style: italic; 
+	color: #fff;
+}
+
+.small-it a {
+	color: #ECF0F1;
+}
+
+pre strong {
+	color: #007aff;
+	font-weight: normal;
+}
+
+footer {
+	margin: 50px 0;
+	text-align: center;
+}
